@@ -19,6 +19,7 @@ Aspiring Data Scientist | Machine Learning, Scikit-learn | Python, Pandas,Numpy,
 
 ---
 
+[![Profile Views](https://komarev.com)](https://my-portfolio-roan-three-23.vercel.app/)
 
 
 
