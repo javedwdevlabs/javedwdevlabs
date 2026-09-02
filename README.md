@@ -3,13 +3,16 @@ Aspiring Data Scientist | Machine Learning, Scikit-learn | Python, Pandas,Numpy,
 
 
 
+
+
 🌐 **Socials:**
 
-- [Instagram]([https://instagram.com](https://www.instagram.com/javed.wdevlabs/))
-- [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/javed-khan-659a1440b/))
-- [Medium]([https://medium.com](https://medium.com/@javed.wdevlabs))
-- [Kaggle]([https://www.kaggle.com/work/code))
+- [Instagram](https://www.instagram.com/javed.wdevlabs/)
+- [LinkedIn](https://www.linkedin.com/in/javed-khan-659a1440b/)
+- [Medium](https://medium.com/@javed.wdevlabs)
+- [Kaggle](https://www.kaggle.com/work/code)
 - [Email](mailto:javed.wdevlabs@gmail.com)
+
 
 
 
