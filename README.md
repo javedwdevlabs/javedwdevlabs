@@ -19,7 +19,7 @@ Aspiring Data Scientist | Machine Learning, Scikit-learn | Python, Pandas,Numpy,
 
 ---
 
-[![Profile Views]](https://my-portfolio-roan-three-23.vercel.app/)
+[[Profile Views]](https://my-portfolio-roan-three-23.vercel.app/)
 
 
 
