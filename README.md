@@ -3,7 +3,7 @@ Aspiring Data Scientist | Machine Learning, Scikit-learn | Python, Pandas,Numpy,
 
 
 🌐 **Socials:**
-[![Instagram](https://shields.io)](https://instagram.com) [![LinkedIn](https://shields.io)](https://linkedin.com) [![Medium](https://shields.io)](https://medium.com) [![Email](https://shields.io)](mailto:javed.wdevlabs@gmail.com)
+[![Instagram]](https://instagram.com) [![LinkedIn](https://shields.io)](https://linkedin.com) [![Medium](https://shields.io)](https://medium.com) [![Email](https://shields.io)](mailto:javed.wdevlabs@gmail.com)
 
 
 
