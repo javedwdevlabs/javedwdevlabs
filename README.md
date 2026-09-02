@@ -1,10 +1,6 @@
 # 💫 About Me:
 Aspiring Data Scientist | Machine Learning, Scikit-learn | Python, Pandas,Numpy, Seaborn,   SQL | Building Real-World ML Projects<br><br>• I like finding patterns in data and figuring out what's actually going on behind the numbers. Always curious to learn new things.<br><br>Right now I'm learning Data Science and Machine Learning on my own. I've covered Python, Pandas, NumPy, and data visualization with Matplotlib and Seaborn, and I've also finished learning Machine Learning. At this point I'm working on data science projects and turning them into ML projects — basically trying to actually use what I've learned instead of just knowing the theory. I also solve problems on Codewars to keep improving my Python.𝗢𝗻𝗰𝗲 𝗜 𝗴𝗮𝗶𝗻 𝗺𝗼𝗿𝗲 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆-𝗹𝗲𝘃𝗲𝗹 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗠𝗟, 𝗜 𝗽𝗹𝗮𝗻 𝘁𝗼 𝗺𝗼𝘃𝗲 𝗼𝗻 𝘁𝗼 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗻𝗲𝘅𝘁.<br><br>Most of my learning has come from CampusX and Codanics on YouTube — both have been really helpful in building practical skills, not just theory.<br><br>I've made a few notebooks on Kaggle too, but the project I'm most proud of is one I actually built and deployed — a Mental Wellness Assessment app. It's live and you can check it out here:<br><br><br>Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, FastAPI, Pydantic, HTML, CSS<br><br>My studies aren't finished yet, but I'm actively building projects and skills, and eventually looking for a good Data Science / ML role.<br><br>Open to connecting with people in the Data Science and AI space, and open to job opportunities too — feel free to reach out.
 
-
-
-
-
 🌐 **Socials:**
 
 - [Instagram](https://www.instagram.com/javed.wdevlabs/)
@@ -12,9 +8,6 @@ Aspiring Data Scientist | Machine Learning, Scikit-learn | Python, Pandas,Numpy,
 - [Medium](https://medium.com/@javed.wdevlabs)
 - [Kaggle](https://www.kaggle.com/work/code)
 - [Email](mailto:javed.wdevlabs@gmail.com)
-
-
-
 
 
 # 💻 Tech Stack:
